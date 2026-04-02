@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>My Feed</title>
+    <link>https://example.com</link>
+    <description>My custom DAKboard feed</description>
+
+    <item>
+      <title>The weak shouldn't have to fear the powerful, and the powerful shouldn't simply be allowed to take whatever they want without consequence. Power should be a burden, not a shield.</title>
+      <description>???</description>
+      <pubDate>Wed, 01 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>For those of you who read the trigger warnings and said, "Accidental cannibalism?! Count me in!" This one's for you.</title>
+      <description>"Butcher and Blackbird" by Brynne Weaver</description>
+      <pubDate>Wed, 01 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>They had only ever discussed books but what, in this life, is more personal than books?</title>
+      <description>"The Storied Life of A.J. Fikry" by Gabrielle Zevin</description>
+      <pubDate>Wed, 01 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Do not ask for whom the bell tolls. Ask who would mourn in hearing it. If answer comes there none then more power to you (especially if you are planning an electrocution).</title>
+      <description>"Murder Your Employer" by Rupert Holmes</description>
+      <pubDate>Wed, 01 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>To everyone with religious trauma. I hope this helps heal you in some small, very weird way. Also to Andrew Scott. This is all your fault.</title>
+      <description>???</description>
+      <pubDate>Wed, 01 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>I don't believe there has ever been a more terrible weapon in this world than the word they.</title>
+      <description>"Sky Full of Elephants" by Cebo Campbell</description>
+      <pubDate>Wed, 01 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Amanda, You look at life through the eyes of a child, and I don't know where you got them, and it's making me very uncomfortable. Please stop.</title>
+      <description>???</description>
+      <pubDate>Wed, 01 Apr 2026 09:00:00 +0000</pubDate>
+    </item>
+
+  </channel>
+</rss>
